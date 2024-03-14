@@ -19,7 +19,8 @@ header {
   padding-right: 20px;
 }
 
-.login-btn,
+.login-btn {
+}
 .signup-btn {
   margin-left: 10 px;
 }
